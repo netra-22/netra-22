@@ -35,34 +35,42 @@
 <table>
 <tr>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
-🎓<br>
-<b>EDUCATION</b><br><br>
+🎓
+
+<b>EDUCATION</b>
+
 B.Tech Information Technology
 
 </td>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
-💻<br>
-<b>FOCUS</b><br><br>
+💻
+
+<b>FOCUS</b>
+
 Software Development
 
 </td>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
-🤖<br>
-<b>EXPLORING</b><br><br>
+🤖
+
+<b>EXPLORING</b>
+
 AI • ML • Emerging Tech
 
 </td>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
-🚀<br>
-<b>APPROACH</b><br><br>
+🚀
+
+<b>APPROACH</b>
+
 Learn • Build • Improve
 
 </td>
