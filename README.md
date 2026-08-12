@@ -35,67 +35,43 @@
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="190">
 
-<h2>🎓</h2>
+### 🎓
+**EDUCATION**
 
-<b>EDUCATION</b>
-
-<br><br>
-
-B.Tech Information Technology
-
-<br>
-
-<sub>Building a strong foundation in technology</sub>
+B.Tech IT  
+<sub>Information Technology</sub>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="190">
 
-<h2>💻</h2>
+### 💻
+**FOCUS**
 
-<b>FOCUS</b>
-
-<br><br>
-
-Software Development
-
-<br>
-
-<sub>Creating practical & scalable solutions</sub>
+Software Development  
+<sub>Build • Solve • Improve</sub>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="190">
 
-<h2>🤖</h2>
+### 🤖
+**EXPLORING**
 
-<b>EXPLORING</b>
-
-<br><br>
-
-AI • ML • Emerging Tech
-
-<br>
-
-<sub>Turning ideas into intelligent solutions</sub>
+AI • ML • Emerging Tech  
+<sub>Learn by building</sub>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="190">
 
-<h2>🚀</h2>
+### 🚀
+**APPROACH**
 
-<b>APPROACH</b>
-
-<br><br>
-
-Learn • Build • Improve
-
-<br>
-
-<sub>Growing through hands-on experience</sub>
+Learn • Build • Improve  
+<sub>Ideas → Solutions</sub>
 
 </td>
 
