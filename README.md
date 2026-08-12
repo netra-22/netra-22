@@ -13,11 +13,7 @@
 </a>
 
 </div>
-I’m an Information Technology student who enjoys learning new technologies and building practical solutions to real-world problems.
 
-I’m interested in software development, artificial intelligence, and creating projects that combine technology with useful ideas.
-
----
 
 <div align="center">
 
