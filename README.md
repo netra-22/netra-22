@@ -1,6 +1,12 @@
-# Hi, I'm Netra R
+<h1 align="center">Hi 👋, I'm Netra R</h1>
 
-### Information Technology Student | Software Development & AI
+<h3 align="center">
+Information Technology Student | Software Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=netra-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 I’m an Information Technology student who enjoys learning new technologies and building practical solutions to real-world problems.
 
@@ -31,7 +37,6 @@ I’m interested in software development, artificial intelligence, and creating 
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -39,7 +44,6 @@ I’m interested in software development, artificial intelligence, and creating 
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
