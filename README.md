@@ -37,41 +37,33 @@
 
 <td align="center" width="190">
 
-### 🎓
-**EDUCATION**
-
-B.Tech IT  
-<sub>Information Technology</sub>
+🎓<br>
+<b>EDUCATION</b><br><br>
+B.Tech Information Technology
 
 </td>
 
 <td align="center" width="190">
 
-### 💻
-**FOCUS**
-
-Software Development  
-<sub>Build • Solve • Improve</sub>
+💻<br>
+<b>FOCUS</b><br><br>
+Software Development
 
 </td>
 
 <td align="center" width="190">
 
-### 🤖
-**EXPLORING**
-
-AI • ML • Emerging Tech  
-<sub>Learn by building</sub>
+🤖<br>
+<b>EXPLORING</b><br><br>
+AI • ML • Emerging Tech
 
 </td>
 
 <td align="center" width="190">
 
-### 🚀
-**APPROACH**
-
-Learn • Build • Improve  
-<sub>Ideas → Solutions</sub>
+🚀<br>
+<b>APPROACH</b><br><br>
+Learn • Build • Improve
 
 </td>
 
@@ -79,7 +71,6 @@ Learn • Build • Improve
 </table>
 
 </div>
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
