@@ -30,43 +30,79 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="180">
+<div align="center">
 
-🎓  
-<b>Education</b><br>
-B.Tech IT
+<table>
+<tr>
+
+<td align="center" width="220">
+
+<h2>🎓</h2>
+
+<b>EDUCATION</b>
+
+<br><br>
+
+B.Tech Information Technology
+
+<br>
+
+<sub>Building a strong foundation in technology</sub>
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-💻  
-<b>Focus</b><br>
+<h2>💻</h2>
+
+<b>FOCUS</b>
+
+<br><br>
+
 Software Development
 
-</td>
+<br>
 
-<td align="center" width="180">
-
-🤖  
-<b>Exploring</b><br>
-AI & ML
+<sub>Creating practical & scalable solutions</sub>
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-🚀  
-<b>Approach</b><br>
+<h2>🤖</h2>
+
+<b>EXPLORING</b>
+
+<br><br>
+
+AI • ML • Emerging Tech
+
+<br>
+
+<sub>Turning ideas into intelligent solutions</sub>
+
+</td>
+
+<td align="center" width="220">
+
+<h2>🚀</h2>
+
+<b>APPROACH</b>
+
+<br><br>
+
 Learn • Build • Improve
 
+<br>
+
+<sub>Growing through hands-on experience</sub>
+
 </td>
+
 </tr>
 </table>
 
-<div align="center">
+</div>
 
 ## 🛠️ Tech Stack
 
