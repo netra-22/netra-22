@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Netra R</h1>
+<div align="center">
 
-<h3 align="center">
-Information Technology Student | Software Developer | AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Netra%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=20"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=netra-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+solutions+%F0%9F%9A%80;Exploring+AI+%26+Software+Development+%F0%9F%A4%96;Learning+%7C+Building+%7C+Improving+%F0%9F%8C%B1;Turning+problems+into+projects+%F0%9F%92%A1" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/netra-22">
+<img src="https://img.shields.io/badge/GitHub-Netra%20R-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 I’m an Information Technology student who enjoys learning new technologies and building practical solutions to real-world problems.
 
 I’m interested in software development, artificial intelligence, and creating projects that combine technology with useful ideas.
