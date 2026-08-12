@@ -19,14 +19,56 @@ I’m interested in software development, artificial intelligence, and creating 
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 B.Tech Information Technology student
-- 💻 Interested in Software Development and AI
-- 🔐 Built a Multimedia Steganography project
-- 🚌 Interested in smart mobility and real-world problem solving
-- 🌱 Currently improving my programming and development skills
-- 📍 Coimbatore, India
+## 👩‍💻 About Me
+
+</div>
+
+<p align="center">
+  I'm an Information Technology student who enjoys turning ideas into practical solutions.
+  <br>
+  I'm passionate about <b>Software Development</b>, <b>Artificial Intelligence</b>,
+  and learning through hands-on projects.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+🎓  
+<b>Education</b><br>
+B.Tech IT
+
+</td>
+
+<td align="center" width="180">
+
+💻  
+<b>Focus</b><br>
+Software Development
+
+</td>
+
+<td align="center" width="180">
+
+🤖  
+<b>Exploring</b><br>
+AI & ML
+
+</td>
+
+<td align="center" width="180">
+
+🚀  
+<b>Approach</b><br>
+Learn • Build • Improve
+
+</td>
+</tr>
+</table>
 
 ---
 
