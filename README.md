@@ -196,7 +196,7 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!"/>
 
 </div>
 
