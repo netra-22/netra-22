@@ -64,17 +64,6 @@ Software Development
 AI • ML • Emerging Tech
 
 </td>
-
-<td align="center" width="180">
-
-🚀
-
-<b>APPROACH</b>
-
-Learn • Build • Improve
-
-</td>
-
 </tr>
 </table>
 
