@@ -194,11 +194,9 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
-<img src="https://komarev.com/ghpvc/?username=netra-22&label=Profile%20Views&color=0072FF&style=for-the-badge" />
-
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+learning.+Keep+building.+%F0%9F%9A%80;See+you+around!+%F0%9F%92%99" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B"/>
 
 </div>
 
