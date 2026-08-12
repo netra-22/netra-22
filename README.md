@@ -71,6 +71,9 @@ Learn • Build • Improve
 </table>
 
 </div>
+
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
