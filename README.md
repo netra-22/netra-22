@@ -163,25 +163,46 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 </tr>
 </table>
 
-<br>
 
 <div align="center">
 
-### 💡 What I Build
+## 🚀 What I'm Working On
 
-`🔐 Secure Applications` &nbsp;&nbsp; `🚌 Smart Systems` &nbsp;&nbsp; `🤖 Intelligent Solutions`
+<table>
+<tr>
+
+<td align="center" width="250">
+
+### 💻 Development
+
+Building practical applications and improving my software development skills.
+
+</td>
+
+<td align="center" width="250">
+
+### 🧠 Problem Solving
+
+Strengthening Data Structures, Algorithms and logical thinking.
+
+</td>
+
+<td align="center" width="250">
+
+### 🤖 AI & Emerging Tech
+
+Exploring AI-driven solutions and new technologies.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=650&lines=Learning+something+new+every+day+%F0%9F%8C%B1;Building+projects+that+matter+%F0%9F%9A%80;Turning+ideas+into+working+solutions+%F0%9F%92%A1" />
 
 </div>
-
-## 📚 Currently Learning
-
-- Java
-- React Native
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-
----
 
 ## 🔗 Connect With Me
 
