@@ -105,18 +105,69 @@ Learn • Build • Improve
 </p>
 
 </div>
-## 📌 Featured Projects
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🔐 StegaNSS
-A multimedia steganography project focused on securely hiding and extracting information from digital media.
+
+**Multimedia Steganography Web Application**
+
+A web application focused on securely hiding and extracting information from multimedia files.
+
+**Tech:** Python • Flask • HTML • JavaScript • SQLite
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚌 Smart Mobility
-A smart public transport solution designed to improve bus tracking, ETA information and passenger experience.
 
-### 🤖 AI & Machine Learning Projects
-Exploring machine learning and AI through practical prediction and recommendation projects.
+**Smart Public Transport Solution**
 
----
+A smart mobility system designed to improve public transport tracking, bus ETA information and passenger experience.
+
+**Tech:** IoT • Firebase • Leaflet • ESP32
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & ML Projects
+
+**Artificial Intelligence & Machine Learning**
+
+Exploring machine learning through practical prediction, classification and recommendation projects.
+
+**Tech:** Python • Pandas • NumPy • Machine Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Java Development
+
+**Programming & Problem Solving**
+
+A collection of Java programs and practice projects developed while strengthening programming and problem-solving skills.
+
+**Tech:** Java • OOP • DSA
+
+</td>
+
+</tr>
+</table>
 
 ## 📚 Currently Learning
 
