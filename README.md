@@ -169,7 +169,7 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 ## 🔗 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/netrar220107">
+  <a href="https://www.linkedin.com/in/netrar220107/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
