@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+solutions+%F0%9F%9A%80;Exploring+AI+%26+Software+Development+%F0%9F%A4%96;Learning+%7C+Building+%7C+Improving+%F0%9F%8C%B1;Turning+problems+into+projects+%F0%9F%92%A1" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/netra-22">
 <img src="https://img.shields.io/badge/GitHub-Netra%20R-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -166,63 +166,39 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 
 <div align="center">
 
-## 🚀 What I'm Working On
+## 🔗 Connect With Me
 
-<table>
-<tr>
-
-<td align="center" width="250">
-
-### 💻 Development
-
-Building practical applications and improving my software development skills.
-
-</td>
-
-<td align="center" width="250">
-
-### 🧠 Problem Solving
-
-Strengthening Data Structures, Algorithms and logical thinking.
-
-</td>
-
-<td align="center" width="250">
-
-### 🤖 AI & Emerging Tech
-
-Exploring AI-driven solutions and new technologies.
-
-</td>
-
-</tr>
-</table>
+<p>
+  <a href="www.linkedin.com/in/netrar220107">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:netrar2423@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/netra-22">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=650&lines=Learning+something+new+every+day+%F0%9F%8C%B1;Building+projects+that+matter+%F0%9F%9A%80;Turning+ideas+into+working+solutions+%F0%9F%92%A1" />
+<i>Always open to learning, collaborating and building something meaningful.</i>
 
 </div>
 
-## 🔗 Connect With Me
+<br>
 
-<p align="left">
-  <a href="www.linkedin.com/in/netrar220107">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="mailto:netrar2423@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
-  <a href="https://github.com/netra-22">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
----
+<img src="https://komarev.com/ghpvc/?username=netra-22&label=Profile%20Views&color=0072FF&style=for-the-badge" />
 
-⭐ Thanks for visiting my profile!
+<br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+learning.+Keep+building.+%F0%9F%9A%80;See+you+around!+%F0%9F%92%99" />
 
+</div>
 
