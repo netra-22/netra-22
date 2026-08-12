@@ -19,24 +19,19 @@ I’m interested in software development, artificial intelligence, and creating 
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+</p>
 
-Python • Java • C++ • JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,mysql,mongodb,sqlite" />
+</p>
 
-**Web & Development**
-
-HTML • CSS • JavaScript • React Native
-
-**Databases**
-
-MySQL • MongoDB • SQLite
-
-**Tools**
-
-Git • GitHub • VS Code • Android Studio
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
 ---
 
 ## 📌 Featured Projects
@@ -62,20 +57,25 @@ Exploring machine learning and AI through practical prediction and recommendatio
 
 ---
 
-## 🤝 Connect With Me
+## 🔗 Connect With Me
 
-- 💼 LinkedIn
-- 🐙 GitHub
+<p align="left">
+  <a href="www.linkedin.com/in/netrar220107">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="mailto:netrar2423@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/netra-22">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=netra-22&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netra-22&layout=compact&theme=tokyonight" height="180"/>
-</p>
