@@ -107,7 +107,13 @@ Learn • Build • Improve
 </div>
 <div align="center">
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+<p>
+  <i>Projects I've built to explore technology and solve real-world problems.</i>
+</p>
 
 </div>
 
@@ -116,58 +122,56 @@ Learn • Build • Improve
 
 <td width="50%" valign="top">
 
-### 🔐 StegaNSS
+<h3 align="center">🔐 StegaNSS</h3>
 
-**Multimedia Steganography Web Application**
+<p align="center">
+  <img src="https://img.shields.io/badge/Multimedia-Steganography-7B61FF?style=for-the-badge"/>
+</p>
 
-A web application focused on securely hiding and extracting information from multimedia files.
+<p align="center">
+A secure multimedia steganography web application for hiding and extracting information from digital media.
+</p>
 
-**Tech:** Python • Flask • HTML • JavaScript • SQLite
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚌 Smart Mobility
-
-**Smart Public Transport Solution**
-
-A smart mobility system designed to improve public transport tracking, bus ETA information and passenger experience.
-
-**Tech:** IoT • Firebase • Leaflet • ESP32
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & ML Projects
-
-**Artificial Intelligence & Machine Learning**
-
-Exploring machine learning through practical prediction, classification and recommendation projects.
-
-**Tech:** Python • Pandas • NumPy • Machine Learning
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Java Development
+<h3 align="center">🚌 Smart Mobility</h3>
 
-**Programming & Problem Solving**
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart-Public%20Transport-00A86B?style=for-the-badge"/>
+</p>
 
-A collection of Java programs and practice projects developed while strengthening programming and problem-solving skills.
+<p align="center">
+A smart public transport solution focused on real-time bus tracking, ETA information and passenger experience.
+</p>
 
-**Tech:** Java • OOP • DSA
+<p align="center">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+</p>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### 💡 What I Build
+
+`🔐 Secure Applications` &nbsp;&nbsp; `🚌 Smart Systems` &nbsp;&nbsp; `🤖 Intelligent Solutions`
+
+</div>
 
 ## 📚 Currently Learning
 
