@@ -1,48 +1,120 @@
-<svg width="1000" height="210" viewBox="0 0 1000 210"
+<svg width="1000" height="240" viewBox="0 0 1000 240"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
 
-    <!-- Main gradient -->
-    <!-- Main Background -->
-<linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#071827"/>
-  <stop offset="35%" stop-color="#0A4263"/>
-  <stop offset="65%" stop-color="#075A88"/>
-  <stop offset="100%" stop-color="#142B63"/>
-</linearGradient>
+    <!-- ========================================= -->
+    <!-- HEADER-MATCHING MAIN GRADIENT -->
+    <!-- ========================================= -->
 
-<!-- Second Wave -->
-<linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-  <stop offset="0%" stop-color="#0C355F"/>
-  <stop offset="45%" stop-color="#0F5C8A"/>
-  <stop offset="100%" stop-color="#173B73"/>
-</linearGradient>
+    <linearGradient id="mainGradient"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
 
-<!-- Glow Line -->
-<linearGradient id="codeGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-  <stop offset="0%" stop-color="#22D3EE"/>
-  <stop offset="50%" stop-color="#60A5FA"/>
-  <stop offset="100%" stop-color="#A78BFA"/>
-</linearGradient>
-    <!-- Soft glow -->
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="12"/>
+      <stop offset="0%"
+            stop-color="#071827"/>
+
+      <stop offset="35%"
+            stop-color="#0A4263"/>
+
+      <stop offset="65%"
+            stop-color="#075A88"/>
+
+      <stop offset="100%"
+            stop-color="#142B63"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- SECOND WAVE -->
+    <!-- ========================================= -->
+
+    <linearGradient id="waveGradient"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+
+      <stop offset="0%"
+            stop-color="#0A3154"/>
+
+      <stop offset="45%"
+            stop-color="#0B5278"/>
+
+      <stop offset="100%"
+            stop-color="#173966"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- CYAN / BLUE / PURPLE CODING GLOW -->
+    <!-- ========================================= -->
+
+    <linearGradient id="codeGlow"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+
+      <stop offset="0%"
+            stop-color="#22D3EE"/>
+
+      <stop offset="50%"
+            stop-color="#60A5FA"/>
+
+      <stop offset="100%"
+            stop-color="#A78BFA"/>
+
+    </linearGradient>
+
+
+    <!-- ========================================= -->
+    <!-- SOFT LIGHT -->
+    <!-- ========================================= -->
+
+    <radialGradient id="softLight">
+
+      <stop offset="0%"
+            stop-color="#38BDF8"
+            stop-opacity="0.16"/>
+
+      <stop offset="100%"
+            stop-color="#071827"
+            stop-opacity="0"/>
+
+    </radialGradient>
+
+
+    <!-- ========================================= -->
+    <!-- GLOW FILTER -->
+    <!-- ========================================= -->
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="18"/>
     </filter>
 
 
-    <!-- Clip everything inside the wave -->
+    <!-- ========================================= -->
+    <!-- CONTENT CLIP -->
+    <!-- ========================================= -->
+
     <clipPath id="footerClip">
 
       <path d="
-        M0 45
+        M0 55
 
-        C120 65 180 75 300 45
-        C420 15 500 25 600 32
-        C720 40 820 15 1000 48
+        C100 75
+        180 82
+        300 55
 
-        L1000 210
-        L0 210
+        C420 28
+        500 35
+        610 47
+
+        C740 62
+        850 30
+        1000 55
+
+        L1000 240
+        L0 240
         Z
       "/>
 
@@ -51,319 +123,499 @@
   </defs>
 
 
-  <!-- ================================================= -->
-  <!-- MAIN FOOTER WAVE -->
-  <!-- ================================================= -->
+  <!-- ========================================= -->
+  <!-- MAIN FOOTER BODY -->
+  <!-- ========================================= -->
 
   <path
     d="
-      M0 45
+      M0 55
 
-      C120 65 180 75 300 45
-      C420 15 500 25 600 32
-      C720 40 820 15 1000 48
+      C100 75
+      180 82
+      300 55
 
-      L1000 210
-      L0 210
+      C420 28
+      500 35
+      610 47
+
+      C740 62
+      850 30
+      1000 55
+
+      L1000 240
+      L0 240
       Z
     "
     fill="url(#mainGradient)"
   />
 
 
-  <!-- ================================================= -->
-  <!-- SECOND OVERLAPPING WAVE -->
-  <!-- ================================================= -->
+  <!-- ========================================= -->
+  <!-- SOFT LIGHT INSIDE -->
+  <!-- ========================================= -->
+
+  <ellipse
+    cx="500"
+    cy="155"
+    rx="430"
+    ry="130"
+    fill="url(#softLight)"
+    filter="url(#blur)"
+  />
+
+
+  <!-- ========================================= -->
+  <!-- SECOND WAVE -->
+  <!-- ========================================= -->
 
   <path
     d="
-      M0 28
+      M0 38
 
-      C110 48 180 58 300 38
-      C430 15 500 22 610 28
-      C740 35 850 12 1000 38
+      C110 60
+      190 70
+      300 42
 
-      L1000 55
+      C420 15
+      510 25
+      610 38
 
-      C850 30 740 55 610 45
-      C500 38 430 32 300 55
-      C180 75 110 60 0 48
+      C750 55
+      860 18
+      1000 45
+
+      L1000 63
+
+      C860 38
+      750 70
+      610 52
+
+      C510 38
+      420 30
+      300 58
+
+      C190 85
+      110 70
+      0 52
 
       Z
     "
     fill="url(#waveGradient)"
-    opacity="0.85"
+    opacity="0.8"
   />
 
 
-  <!-- ================================================= -->
+  <!-- ========================================= -->
   <!-- DARK TOP WAVE -->
-  <!-- ================================================= -->
+  <!-- ========================================= -->
 
   <path
     d="
-      M0 5
+      M0 12
 
-      C110 25 180 48 300 30
-      C420 12 510 25 610 25
-      C740 25 850 8 1000 32
+      C110 32
+      190 55
+      300 35
 
-      L1000 48
+      C420 12
+      510 25
+      610 30
 
-      C850 25 740 45 610 42
-      C510 42 420 28 300 48
-      C180 68 110 42 0 25
+      C750 38
+      860 12
+      1000 38
+
+      L1000 52
+
+      C860 28
+      750 55
+      610 45
+
+      C510 40
+      420 28
+      300 48
+
+      C190 70
+      110 45
+      0 28
 
       Z
     "
-    fill="#0D1117"
-    opacity="0.9"
+    fill="#07111D"
+    opacity="0.92"
   />
 
 
-  <!-- ================================================= -->
-  <!-- CODING CONTENT - CLIPPED INSIDE WAVE -->
-  <!-- ================================================= -->
+  <!-- ========================================= -->
+  <!-- EVERYTHING BELOW IS CLIPPED -->
+  <!-- ========================================= -->
 
   <g clip-path="url(#footerClip)">
 
 
-    <!-- Soft coding glow -->
-    <circle
-      cx="150"
-      cy="145"
-      r="90"
-      fill="#22D3EE"
-      opacity="0.08"
-      filter="url(#softGlow)"
-    />
-
-    <circle
-      cx="850"
-      cy="150"
-      r="100"
-      fill="#A78BFA"
-      opacity="0.08"
-      filter="url(#softGlow)"
-    />
-
-
-    <!-- Subtle grid -->
+    <!-- ======================================= -->
+    <!-- SUBTLE GRID -->
+    <!-- ======================================= -->
 
     <g
-      stroke="#DDF8FF"
+      stroke="#BFEFFF"
       stroke-width="1"
-      opacity="0.08"
-    >
+      opacity="0.045">
 
-      <line x1="0" y1="85" x2="1000" y2="85"/>
-      <line x1="0" y1="125" x2="1000" y2="125"/>
-      <line x1="0" y1="165" x2="1000" y2="165"/>
+      <line x1="0" y1="95"
+            x2="1000" y2="95"/>
 
-      <line x1="150" y1="0" x2="150" y2="210"/>
-      <line x1="350" y1="0" x2="350" y2="210"/>
-      <line x1="650" y1="0" x2="650" y2="210"/>
-      <line x1="850" y1="0" x2="850" y2="210"/>
+      <line x1="0" y1="135"
+            x2="1000" y2="135"/>
+
+      <line x1="0" y1="175"
+            x2="1000" y2="175"/>
+
+      <line x1="0" y1="215"
+            x2="1000" y2="215"/>
+
+      <line x1="125" y1="0"
+            x2="125" y2="240"/>
+
+      <line x1="300" y1="0"
+            x2="300" y2="240"/>
+
+      <line x1="500" y1="0"
+            x2="500" y2="240"/>
+
+      <line x1="700" y1="0"
+            x2="700" y2="240"/>
+
+      <line x1="875" y1="0"
+            x2="875" y2="240"/>
 
     </g>
 
 
-    <!-- ================================================= -->
+    <!-- ======================================= -->
     <!-- FLOATING CODE -->
-    <!-- ================================================= -->
+    <!-- ======================================= -->
 
     <g
       font-family="monospace"
-      font-size="14"
-      fill="#E8FAFF"
-      opacity="0.28"
-    >
+      fill="#BFEFFF"
+      opacity="0.20">
 
-      <text x="55" y="105">&lt;/&gt;</text>
+      <text x="55" y="115"
+            font-size="16">
+        &lt;/&gt;
+      </text>
 
-      <text x="175" y="155">
+      <text x="155" y="185"
+            font-size="13">
         0101 0010
       </text>
 
-      <text x="780" y="105">
+      <text x="820" y="112"
+            font-size="17">
         { }
       </text>
 
-      <text x="870" y="160">
+      <text x="890" y="180"
+            font-size="13">
         =&gt;
       </text>
 
-      <text x="350" y="180">
+      <text x="70" y="215"
+            font-size="12">
         const idea = build();
       </text>
 
+      <text x="760" y="215"
+            font-size="12">
+        while(learning)
+      </text>
 
-      <!-- Moving animation -->
+
+      <!-- slow horizontal movement -->
 
       <animateTransform
         attributeName="transform"
         type="translate"
-        from="0 0"
-        to="25 0"
-        dur="10s"
-        repeatCount="indefinite"
-      />
+        values="0 0; 18 0; 0 0"
+        dur="12s"
+        repeatCount="indefinite"/>
 
     </g>
 
 
-    <!-- ================================================= -->
-    <!-- SMALL FLOATING SYMBOLS -->
-    <!-- ================================================= -->
+    <!-- ======================================= -->
+    <!-- FLOATING SYMBOLS -->
+    <!-- ======================================= -->
 
     <g
       font-family="monospace"
-      font-size="20"
+      font-size="18"
       fill="url(#codeGlow)"
-      opacity="0.35"
-    >
+      opacity="0.25">
 
-      <text x="100" y="135">
+      <text x="115" y="155">
         &lt;/&gt;
       </text>
 
-      <text x="720" y="145">
-        { }
-      </text>
-
-      <text x="900" y="125">
-        ()
-      </text>
-
-      <text x="280" y="115">
+      <text x="265" y="110">
         =&gt;
       </text>
 
+      <text x="725" y="150">
+        { }
+      </text>
 
-      <!-- Gentle floating -->
+      <text x="900" y="135">
+        ()
+      </text>
+
+
+      <!-- subtle fade animation -->
+
       <animate
         attributeName="opacity"
-        values="0.18;0.38;0.18"
-        dur="4s"
-        repeatCount="indefinite"
-      />
+        values="0.15;0.32;0.15"
+        dur="5s"
+        repeatCount="indefinite"/>
 
     </g>
 
 
-    <!-- ================================================= -->
-    <!-- CONNECTED NODES -->
-    <!-- ================================================= -->
+    <!-- ======================================= -->
+    <!-- LEFT CONNECTED NODES -->
+    <!-- ======================================= -->
 
     <g
       stroke="url(#codeGlow)"
       fill="#DDF8FF"
-      stroke-width="1.5"
-      opacity="0.35"
-    >
+      stroke-width="1.3"
+      opacity="0.25">
 
-      <!-- Left -->
+      <line
+        x1="40"
+        y1="145"
+        x2="105"
+        y2="115"/>
 
-      <line x1="40" y1="120"
-            x2="105" y2="145"/>
+      <line
+        x1="105"
+        y1="115"
+        x2="165"
+        y2="145"/>
 
-      <line x1="105" y1="145"
-            x2="160" y2="115"/>
+      <circle cx="40"
+              cy="145"
+              r="3"/>
 
-      <circle cx="40" cy="120" r="3"/>
-      <circle cx="105" cy="145" r="4"/>
-      <circle cx="160" cy="115" r="3"/>
+      <circle cx="105"
+              cy="115"
+              r="4"/>
 
-
-      <!-- Right -->
-
-      <line x1="830" y1="120"
-            x2="895" y2="145"/>
-
-      <line x1="895" y1="145"
-            x2="965" y2="115"/>
-
-      <circle cx="830" cy="120" r="3"/>
-      <circle cx="895" cy="145" r="4"/>
-      <circle cx="965" cy="115" r="3"/>
+      <circle cx="165"
+              cy="145"
+              r="3"/>
 
     </g>
 
 
-    <!-- ================================================= -->
-    <!-- MAIN MESSAGE -->
-    <!-- ================================================= -->
+    <!-- ======================================= -->
+    <!-- RIGHT CONNECTED NODES -->
+    <!-- ======================================= -->
+
+    <g
+      stroke="url(#codeGlow)"
+      fill="#DDF8FF"
+      stroke-width="1.3"
+      opacity="0.25">
+
+      <line
+        x1="830"
+        y1="145"
+        x2="890"
+        y2="115"/>
+
+      <line
+        x1="890"
+        y1="115"
+        x2="960"
+        y2="145"/>
+
+      <circle cx="830"
+              cy="145"
+              r="3"/>
+
+      <circle cx="890"
+              cy="115"
+              r="4"/>
+
+      <circle cx="960"
+              cy="145"
+              r="3"/>
+
+    </g>
+
+
+    <!-- ======================================= -->
+    <!-- MAIN FOOTER HEADING -->
+    <!-- ======================================= -->
 
     <text
       x="500"
-      y="125"
+      y="145"
       text-anchor="middle"
-      font-family="Arial, sans-serif"
-      font-size="24"
-      font-weight="bold"
-      fill="#FFFFFF"
-    >
+      font-family="Trebuchet MS, Arial, sans-serif"
+      font-size="28"
+      font-weight="700"
+      letter-spacing="0.7"
+      fill="#FFFFFF">
+
       Thanks for visiting! 👋
+
     </text>
 
 
-    <!-- Terminal message -->
+    <!-- ======================================= -->
+    <!-- TERMINAL LINE -->
+    <!-- ======================================= -->
 
     <text
       x="500"
-      y="153"
-      text-anchor="middle"
-      font-family="monospace"
-      font-size="14"
-      fill="#E8F7FF"
-      opacity="0.9"
-    >
-      &gt;_ keep learning • keep building • keep creating
-    </text>
-
-
-    <!-- Blinking cursor -->
-
-    <text
-      x="500"
-      y="178"
+      y="174"
       text-anchor="middle"
       font-family="monospace"
       font-size="13"
-      fill="#67E8F9"
-    >
+      fill="#DDF8FF"
+      opacity="0.85">
+
+      &gt;_ keep learning • keep building • keep creating
+
+    </text>
+
+
+    <!-- ======================================= -->
+    <!-- BLINKING CURSOR -->
+    <!-- ======================================= -->
+
+    <text
+      x="500"
+      y="200"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="12"
+      fill="#67E8F9">
+
       █
 
       <animate
         attributeName="opacity"
         values="1;0;1"
         dur="1s"
-        repeatCount="indefinite"
-      />
+        repeatCount="indefinite"/>
 
     </text>
+
+
+    <!-- ======================================= -->
+    <!-- SMALL MOVING PARTICLES -->
+    <!-- ======================================= -->
+
+    <circle
+      cx="230"
+      cy="150"
+      r="2"
+      fill="#67E8F9"
+      opacity="0.4">
+
+      <animate
+        attributeName="cy"
+        values="150;138;150"
+        dur="4s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle
+      cx="770"
+      cy="180"
+      r="2"
+      fill="#A78BFA"
+      opacity="0.4">
+
+      <animate
+        attributeName="cy"
+        values="180;168;180"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    </circle>
 
 
   </g>
 
 
-  <!-- ================================================= -->
-  <!-- TOP GLOWING WAVE LINE -->
-  <!-- ================================================= -->
+  <!-- ========================================= -->
+  <!-- MAIN TOP WAVE GLOW -->
+  <!-- ========================================= -->
 
   <path
     d="
-      M0 45
+      M0 55
 
-      C120 65 180 75 300 45
-      C420 15 500 25 600 32
-      C720 40 820 15 1000 48
+      C100 75
+      180 82
+      300 55
+
+      C420 28
+      500 35
+      610 47
+
+      C740 62
+      850 30
+      1000 55
     "
     fill="none"
     stroke="url(#codeGlow)"
     stroke-width="2"
-    opacity="0.35"
-  />
+    opacity="0.35">
+
+    <!-- Wave line gently pulses -->
+
+    <animate
+      attributeName="opacity"
+      values="0.20;0.45;0.20"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+
+  <!-- ========================================= -->
+  <!-- SECOND THIN WAVE -->
+  <!-- ========================================= -->
+
+  <path
+    d="
+      M0 62
+
+      C110 80
+      190 88
+      300 63
+
+      C420 38
+      510 45
+      610 55
+
+      C750 70
+      860 38
+      1000 62
+    "
+    fill="none"
+    stroke="#60A5FA"
+    stroke-width="1"
+    opacity="0.18"/>
 
 
 </svg>
