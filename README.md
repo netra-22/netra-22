@@ -186,4 +186,3 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 <div align="center">
   <img src="./footer.svg" width="100%" />
 </div>
-
