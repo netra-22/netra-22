@@ -184,12 +184,6 @@ A smart public transport solution focused on real-time bus tracking, ETA informa
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B"/>
-
+  <img src="./footer.svg" width="100%" />
 </div>
 
