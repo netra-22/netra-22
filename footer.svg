@@ -4,42 +4,27 @@
   <defs>
 
     <!-- Main gradient -->
-    <linearGradient id="mainGradient"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
+    <!-- Main Background -->
+<linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#071827"/>
+  <stop offset="35%" stop-color="#0A4263"/>
+  <stop offset="65%" stop-color="#075A88"/>
+  <stop offset="100%" stop-color="#142B63"/>
+</linearGradient>
 
-      <stop offset="0%" stop-color="#0755B5"/>
-      <stop offset="45%" stop-color="#087EBA"/>
-      <stop offset="75%" stop-color="#0795B5"/>
-      <stop offset="100%" stop-color="#087EA4"/>
+<!-- Second Wave -->
+<linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#0C355F"/>
+  <stop offset="45%" stop-color="#0F5C8A"/>
+  <stop offset="100%" stop-color="#173B73"/>
+</linearGradient>
 
-    </linearGradient>
-
-
-    <!-- Second wave gradient -->
-    <linearGradient id="waveGradient"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
-
-      <stop offset="0%" stop-color="#063B8F"/>
-      <stop offset="50%" stop-color="#075FA8"/>
-      <stop offset="100%" stop-color="#0B7196"/>
-
-    </linearGradient>
-
-
-    <!-- Purple / blue coding glow -->
-    <linearGradient id="codeGlow"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
-
-      <stop offset="0%" stop-color="#67E8F9"/>
-      <stop offset="50%" stop-color="#93C5FD"/>
-      <stop offset="100%" stop-color="#C4B5FD"/>
-
-    </linearGradient>
-
-
+<!-- Glow Line -->
+<linearGradient id="codeGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#22D3EE"/>
+  <stop offset="50%" stop-color="#60A5FA"/>
+  <stop offset="100%" stop-color="#A78BFA"/>
+</linearGradient>
     <!-- Soft glow -->
     <filter id="softGlow">
       <feGaussianBlur stdDeviation="12"/>
