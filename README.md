@@ -111,27 +111,42 @@ AI • ML • Emerging Tech
 
 <table align="center">
 <tr>
+<td width="50%" align="center">
 
-<td width="50%" valign="top">
+  <h3>
+    🔐
+    <a href="https://github.com/netra-22/stegaNSS">
+      StegaNSS
+    </a>
+  </h3>
 
-<h3 align="center">🔐 StegaNSS</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MULTIMEDIA-555555?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/STEGANOGRAPHY-7C5CFC?style=for-the-badge"/>
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Multimedia-Steganography-7B61FF?style=for-the-badge"/>
-</p>
+  <br>
 
-<p align="center">
-A secure multimedia steganography web application for hiding and extracting information from digital media.
-</p>
+  <p>
+    A secure multimedia steganography web application
+    for hiding and extracting information from digital media.
+  </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
+  <br>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  </p>
+
+  <br>
+
+  <a href="https://github.com/netra-22/stegaNSS">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">🚌 Smart Mobility</h3>
